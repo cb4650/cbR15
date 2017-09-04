@@ -1,6 +1,6 @@
 if(a>0):
 	b=str(a)
 	c=(b[::-1])
-	print	
+	print(c[0:2])	
 else:
-	print("0")(c[0:2])
+	print("0")
