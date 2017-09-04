@@ -1,3 +1,4 @@
+a=input()
 if(a>0):
 	b=str(a)
 	c=(b[::-1])
